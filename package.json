@@ -1,0 +1,40 @@
+{
+  "name": "react-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsibahatau/react-blog.git"
+  },
+  "keywords": [
+    "react",
+    "blog",
+    "frontcamp"
+  ],
+  "author": "Tsimur Sibahatau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsibahatau/react-blog/issues"
+  },
+  "homepage": "https://github.com/tsibahatau/react-blog#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.2",
+    "react-router": "^3.0.2",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-eslint": "^7.1.1",
+    "babel-loader": "^6.2.10",
+    "eslint": "^3.14.0",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
